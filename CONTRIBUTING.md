@@ -48,9 +48,9 @@ The best way to get new feature requests implemented is by contributing code. Th
 The Steeltoe team welcomes code contributions from the community and as a part of that we recommend the following guidelines for you to follow to ensure your contributions get proper consideration:
 
 * [Workflow](contributing-docs/contributing-workflow.md) - We pulled together a workflow for how to go about contributing code to Steeltoe. We recommend you read through it first and follow it to get the best results.
-* [Licensing](LICENSE.md) - There are some licensing requirements for code contributions, so please follow through with those.
+* [Licensing Information](contributing-docs/contributing-license.md) - There are some licensing requirements for code contributions, so please follow through with those.
 * [Code Management](contributing-docs/contributing-code-management.md) - We try to maintain a consistent structure for our code; the repositories they are in and how we mange building and publishing it.  Please try to follow our lead on this.
-* [Coding](contributing-docs/contributing-code-style.md) - While we might not be completely consistent throughout our code base, we are striving to be better, so please try to follow our coding guidelines.
+* [Coding Style Guidelines](contributing-docs/contributing-code-style.md) - While we might not be completely consistent throughout our code base, we are striving to be better, so please try to follow our coding guidelines.
 
 Please note, when you want to contribute code to a specific Steeltoe package (e.g. Configuration, CircuitBreaker, etc. ) then please follow the above guidelines in the [SteeltoeOSS GitHub repository](https://github.com/SteeltoeOSS/steeltoe). Specifically, open issues, carry on contribution discussions, and submit PRs, in the repository to which your contribution will be made.
 
