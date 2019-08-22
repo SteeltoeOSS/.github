@@ -4,4 +4,4 @@
 
  - :x: **Do not open a GitHub issue if the bug is a security vulnerability in Steeltoe**
  - :white_check_mark: Disclose responsibly by sending a private report to [`security@pivotal.io`](mailto:security@pivotal.io)
- - :white_check_mark: (please double check this is consistent with the [CVE process](https://pivotal.io/security)
+ - :white_check_mark: Please double check this is consistent with the [CVE process](https://pivotal.io/security)
