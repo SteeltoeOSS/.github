@@ -33,9 +33,9 @@ Code should be sensitive to the differences between OS's and so here are some sp
 
 ## Unit Tests
 
-The unit tests for a package should be put in a project with the same name and append `.Test` to the name. For example, for the package `Steeltoe.Extensions.Configuration.CloudFoundry`, the tests should be in a package with the name `Steeltoe.Extensions.Configuration.CloudFoundry.Test`. In general there should be exactly one unit test package for each runtime package.
+The unit tests for a package should be put in a project with the same name and append `.Test` to the name. For example, for the package `Steeltoe.Configuration.CloudFoundry`, the tests should be in a project named `Steeltoe.Configuration.CloudFoundry.Test`. In general, there should be exactly one unit test project for each runtime package.
 
-The unit test class names should end with `Test` and live in the same namespace as the class being tested. For example, the unit tests for the `Steeltoe.Extensions.Configuration.CloudFoundry` class would be in `Steeltoe.Extensions.Configuration.CloudFoundryTest` class in the test package.
+The unit test class names should end with `Test`. For example, the unit tests for the `Steeltoe.Configuration.CloudFoundry.CloudFoundryApplicationOptions` class would be in the class `Steeltoe.Configuration.CloudFoundry.Test.CloudFoundryApplicationOptionsTest` in the test project.
 
 Use the plethora of built-in assertions from `xUnit` and ensure you have no `xUnit` warnings during the build.
 
