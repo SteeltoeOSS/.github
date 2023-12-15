@@ -2,6 +2,4 @@
 
 ## Reporting a Vulnerability
 
- - :x: **Do not open a GitHub issue if the bug is a security vulnerability in Steeltoe**
- - :white_check_mark: Disclose responsibly by sending a private report to [`security@vmware.com`](mailto:security@vmware.com)
- - :white_check_mark: Please double check this is consistent with the [security reporting process](https://tanzu.vmware.com/security)
+If you think you have found a security vulnerability, please DO NOT disclose it publicly until we've had a chance to fix it. Please don’t report security vulnerabilities using GitHub issues, instead head over to [Steeltoe Security Policy](https://github.com/SteeltoeOSS/security-advisories) and learn how to disclose them responsibly.
