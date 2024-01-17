@@ -27,7 +27,7 @@ You will find that this is the best way to get your issue addressed. Please be a
 
 Before reporting an issue, go through the list below and ask yourself these questions.  This will make sure you're not missing any important information before opening up an issue.
 
-1. Did you read the [documentation](https://steeltoe.io/docs/)?
+1. Did you read the [documentation](https://docs.steeltoe.io/)?
 1. Did you look at one of the [samples](https://github.com/SteeltoeOSS/Samples) to see if it provides answers for your issue.
 1. Do you have the snippet of broken code or a sample project for the issue?
 1. What are the *EXACT* steps to reproduce this problem?
